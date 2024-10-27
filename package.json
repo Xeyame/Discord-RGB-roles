@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@davidmarkclements/hsl-to-hex": "^1.0.2",
-    "discord.js": "^11.3.2",
+    "discord.js": "^11.6.4",
     "rgb-hex": "^2.1.0"
   }
 }
